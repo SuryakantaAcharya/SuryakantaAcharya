@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuryakantaAcharya
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Youtube
+- 👀 I’m interested in Java application development
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on my github for contributions
 - 📫 How to reach me - suryakanta.acharya.088@gmail.com 
 
 <!---
